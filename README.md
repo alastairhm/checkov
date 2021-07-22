@@ -1,4 +1,4 @@
-# apline-checkov
+# checkov
 
 ## A Docker image Python3 on Alpine with Checkov tool
 
