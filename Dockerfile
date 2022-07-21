@@ -1,4 +1,4 @@
-FROM alastairhm/alpine-python3:release-3.16
+FROM ghcr.io/alastairhm/alpine-python3:latest
 
 RUN pip3 install checkov 
 
