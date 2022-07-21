@@ -11,3 +11,12 @@ This repository provides [Checkov](https://www.checkov.io/) tool for IAC securit
 docker run --rm -ti -v $(pwd):/workdir alastairhm/checkov -d /workdir
 ```
 
+```text
+          _    _ __  __ 
+    /\   | |  | |  \/  | Email    : alastair@montgomery.me.uk
+   /  \  | |__| | \  / | Web      : https://blog.0x32.co.uk/
+  / /\ \ |  __  | |\/| | Twitter  : @alastair_hm
+ / ____ \| |  | | |  | | Mastodon : @Alastair@mastodon.me.uk
+/_/    \_\_|  |_|_|  |_| (c) 2022
+```
+
